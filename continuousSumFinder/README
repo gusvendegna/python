@@ -1,0 +1,12 @@
+The point of this project was:
+
+Given n inputs, ex: 2, 6, 10, 20
+Find the fewest number of sums needed to reach all these targets using the fewest number as possible (starting with 1), using only previously calculated sums.
+
+Possible solution to 2, 6, 10, 20: 
+
+1 1
+2 2
+4 2
+6 4
+10 10
